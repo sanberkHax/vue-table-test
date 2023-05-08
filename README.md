@@ -1,8 +1,6 @@
 # vue-table-test
 
-Bonus soru cevabı: data.splice(2, 1);
-
-This template should help get you started developing with Vue 3 in Vite.
+Bonus soru cevabı: `data.splice(2, 1);`
 
 ## Recommended IDE Setup
 
@@ -30,10 +28,10 @@ npm run dev
 npm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
+### Run Tests with [Vitest](https://vitest.dev/)
 
 ```sh
-npm run test:unit
+npm run test
 ```
 
 ### Lint with [ESLint](https://eslint.org/)
