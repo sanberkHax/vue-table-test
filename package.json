@@ -1,0 +1,38 @@
+{
+  "name": "vue-table-test",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "vitest",
+    "lint": "eslint . --ext .vue,.js,.jsx,.cjs,.mjs --fix --ignore-path .gitignore",
+    "format": "prettier --write src/"
+  },
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bootstrap": "^5.3.0-alpha3",
+    "pinia": "^2.0.35",
+    "vue": "^3.2.47"
+  },
+  "devDependencies": {
+    "@pinia/testing": "^0.0.16",
+    "@prettier/plugin-pug": "^2.4.2",
+    "@rushstack/eslint-patch": "^1.2.0",
+    "@vitejs/plugin-vue": "^4.2.1",
+    "@volar/vue-language-plugin-pug": "^1.6.4",
+    "@vue/eslint-config-prettier": "^7.1.0",
+    "@vue/test-utils": "^2.3.2",
+    "eslint": "^8.39.0",
+    "eslint-plugin-vue": "^9.11.0",
+    "eslint-plugin-vue-pug": "^0.6.0",
+    "jsdom": "^22.0.0",
+    "msw": "^1.2.1",
+    "prettier": "^2.8.8",
+    "pug": "^3.0.2",
+    "sass": "^1.62.1",
+    "vite": "^4.3.4",
+    "vitest": "^0.31.0"
+  }
+}
