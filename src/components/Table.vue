@@ -42,7 +42,7 @@ const handlePagination = (e) => {
 <template lang="pug">
 .d-flex.flex-column.justify-content-between.flex-grow-1.gap-md-5
   table.table.flex-grow-1.align-middle
-    thead
+    thead.align-top
       tr
         th(v-for='(header, headerIndex) in props.headers', :key='headerIndex', scope='col')
           | {{ header }}
