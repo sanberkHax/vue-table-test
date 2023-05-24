@@ -1,6 +1,6 @@
 # vue-table-test
 
-My first experience with Vue, Pinia and Bootstrap. Made for a test case.
+Simple table component with pagination made for a test case. This was also my first experience with Vue, Pinia and Bootstrap.
 
 ## Recommended IDE Setup
 
