@@ -1,6 +1,6 @@
 # vue-table-test
 
-Bonus soru cevabı: `data.splice(2, 1);`
+My first experience with Vue, Pinia and Bootstrap. Made for a test case.
 
 ## Recommended IDE Setup
 
